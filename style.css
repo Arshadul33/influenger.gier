@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-right{
+
+}
+.header-right ul{
+    text-align: center;
+    
+   
+}
+.header-right ul li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
