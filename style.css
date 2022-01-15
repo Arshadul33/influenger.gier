@@ -2,17 +2,25 @@
     margin: 0;
     padding: 0;
 }
-.header-right{
 
-}
-.header-right ul{
-    text-align: center;
+
     
-   
+
+.nav-list{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
-.header-right ul li{
-    display: inline-block;
+.nav-item{
+    list-style: none;
+    margin-right: 2rem;
+    font-size: 20px;
+    
+}
+.nav-item a{
     text-decoration: none;
-    padding: 5px;
     color: black;
 }
